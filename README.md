@@ -1,3 +1,4 @@
+Mallory's edits
 # Best git workflow for doing workshops:
 * fork repository: makes your own remote copy of the repository
 * `git clone` to make a local repository
